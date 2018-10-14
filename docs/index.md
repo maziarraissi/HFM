@@ -205,7 +205,7 @@ In conclusion, we have introduced an effective algorithm based on the recently d
 
 **Acknowledgements**
 
-This work received support by the DARPA EQUiPS grant N66001-15-2-4055, the AFOSR grant FA9550-17-1-0013, the NIH grant U01HL116323, and the NSF grant DMS-1736088. Generation of data was performed on XSEDE resources supported by award No.~TG-DMS140007. Moreover, all data and codes used in this manuscript will be publicly available on [GitHub](https://github.com/maziarraiss/HFM).
+This work received support by the DARPA EQUiPS grant N66001-15-2-4055, the AFOSR grant FA9550-17-1-0013, the NIH grant U01HL116323, and the NSF grant DMS-1736088. Generation of data was performed on XSEDE resources supported by award No.~TG-DMS140007. Moreover, all data and codes used in this manuscript will be publicly available on [GitHub](https://github.com/maziarraissi/HFM).
 
 * * * * *
 ## Citation
