@@ -8,7 +8,11 @@ For more information, please refer to the following: (https://maziarraissi.githu
 
 ## Note
 
-This work is currently under review for publication and the codes and data will be publicly available as soon as the review process concludes.
+The required data (to be copied in the Data directory) and some Matlab scripts (to be copied in the Figures directory) for plotting purposes are provided in the following link:
+
+   - [Data and Figures](https://bit.ly/2NRB65U)
+
+In addition to the Data and Figures directories, the Results folder is currently empty and will be automatically populated after running the corresponding examples provided in the Source and Scripts directories.
 
 ## Citation
 
