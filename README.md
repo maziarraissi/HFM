@@ -6,6 +6,8 @@ We present [hidden fluid mechanics](https://arxiv.org/abs/1808.04327) (HFM), a p
 
 For more information, please refer to the following: (https://maziarraissi.github.io/HFM/)
 
+  - Raissi, Maziar, Alireza Yazdani, and George Em Karniadakis. "[Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations](https://science.sciencemag.org/content/367/6481/1026.abstract)." Science 367.6481 (2020): 1026-1030.
+
   - Raissi, Maziar, Alireza Yazdani, and George Em Karniadakis. "[Hidden Fluid Mechanics: A Navier-Stokes Informed Deep Learning Framework for Assimilating Flow Visualization Data](https://arxiv.org/abs/1808.04327)." arXiv preprint arXiv:1808.04327 (2018).
 
 ## Note
