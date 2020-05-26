@@ -19,7 +19,7 @@ The required data (to be copied in the Data directory) and some Matlab scripts (
 In addition to the Data and Figures directories, the Results folder is currently empty and will be automatically populated after running the corresponding examples provided in the Source and Scripts directories.
 
 ## Citation
-    
+
     @article{raissi2020hidden,
       title={Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations},
       author={Raissi, Maziar and Yazdani, Alireza and Karniadakis, George Em},
@@ -37,4 +37,3 @@ In addition to the Data and Figures directories, the Results folder is currently
       journal={arXiv preprint arXiv:1808.04327},
       year={2018}
     }
-    
