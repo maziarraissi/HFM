@@ -210,20 +210,20 @@ This work received support by the DARPA EQUiPS grant N66001-15-2-4055, the AFOSR
 * * * * *
 ## Citation
 
-	@article{raissi2020hidden,
-		title={Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations},
-		author={Raissi, Maziar and Yazdani, Alireza and Karniadakis, George Em},
-		journal={Science},
-		volume={367},
-		number={6481},
-		pages={1026--1030},
-		year={2020},
-		publisher={American Association for the Advancement of Science}
-	}
+		@article{raissi2020hidden,
+			title={Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations},
+			author={Raissi, Maziar and Yazdani, Alireza and Karniadakis, George Em},
+			journal={Science},
+			volume={367},
+			number={6481},
+			pages={1026--1030},
+			year={2020},
+			publisher={American Association for the Advancement of Science}
+		}
 
-	@article{raissi2018HFM,
-		title={Hidden Fluid Mechanics: A Navier-Stokes Informed Deep Learning Framework for Assimilating Flow Visualization Data},
-		author={Raissi, Maziar and Yazdani, Alireza and Karniadakis, George Em},
-		journal={arXiv preprint arXiv:1808.04327},
-		year={2018}
-	}
+		@article{raissi2018HFM,
+			title={Hidden Fluid Mechanics: A Navier-Stokes Informed Deep Learning Framework for Assimilating Flow Visualization Data},
+			author={Raissi, Maziar and Yazdani, Alireza and Karniadakis, George Em},
+			journal={arXiv preprint arXiv:1808.04327},
+			year={2018}
+		}
