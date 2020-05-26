@@ -222,8 +222,8 @@ This work received support by the DARPA EQUiPS grant N66001-15-2-4055, the AFOSR
 	}
 
 	@article{raissi2018HFM,
-	  title={Hidden Fluid Mechanics: A Navier-Stokes Informed Deep Learning Framework for Assimilating Flow Visualization Data},
-	  author={Raissi, Maziar and Yazdani, Alireza and Karniadakis, George Em},
-	  journal={arXiv preprint arXiv:1808.04327},
-	  year={2018}
+		title={Hidden Fluid Mechanics: A Navier-Stokes Informed Deep Learning Framework for Assimilating Flow Visualization Data},
+		author={Raissi, Maziar and Yazdani, Alireza and Karniadakis, George Em},
+		journal={arXiv preprint arXiv:1808.04327},
+		year={2018}
 	}
