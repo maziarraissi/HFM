@@ -14,7 +14,7 @@ For more information, please refer to the following: (https://maziarraissi.githu
 
 The required data (to be copied in the Data directory) and some Matlab scripts (to be copied in the Figures directory) for plotting purposes are provided in the following link:
 
-   - [Data and Figures](https://bit.ly/2NRB65U)
+   - [Data and Figures](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/mara4513_colorado_edu/EnMZcTjA6BVBjovGVJT3hk4BIemGxYF9lO6ry0SyizIjoQ?e=fuHKi2)
 
 In addition to the Data and Figures directories, the Results folder is currently empty and will be automatically populated after running the corresponding examples provided in the Source and Scripts directories.
 
